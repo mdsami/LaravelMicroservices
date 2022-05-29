@@ -4,7 +4,7 @@
     <img src="https://badgen.net/badge/Built%20with/Laravel%20v8.75/F4645F" />
   </a>
   <a href="https://www.php.net/downloads.php" alt="Powered by: PHP v7.4.4">
-    <img src="https://badgen.net/badge/Powered%20by/PHP%20v7.4.4/8892BF" />
+    <img src="https://badgen.net/badge/Powered%20by/PHP%20v8.0/8892BF" />
   </a>
 </p>
 
